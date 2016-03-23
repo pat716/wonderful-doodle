@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wonderful Doodle</string>
+    <string name="color_label">Color</string>
+    <string name="brush_label">Brush</string>
+    <string name="clear_label">Clear</string>
+    <string name="alpha_label">Alpha</string>
+    <string name="done_label">Done</string>
+    <string name="color_0_label">0</string>
+    <string name="color_255_label">255</string>
+    <string name="stroke_width_label">Stroke Width</string>
+    <string name="stroke_width_1_label">1</string>
+    <string name="stroke_width_50_label">50</string>
+    <string name="red_label">Red</string>
+    <string name="green_label">Green</string>
+    <string name="blue_label">Blue</string>
+    <string name="undo_button_content_description">Undo last action</string>
+    <string name="redo_button_content_description">Redo last action</string>
+
+</resources>
