@@ -1,6 +1,8 @@
 # wonderful-doodle
 
-This drawing app prototype was built using [Android Studio](http://developer.android.com/sdk/index.html?gclid=CjwKEAjw_ci3BRDSvfjortr--DQSJADU8f2jlIC6xbvMKN_ytRR2n6k0DDXhrn_M89zavaoyjZEzBBoCPXTw_wcB) with no external libraries used besides the default toolset included with the software. 
+This drawing app prototype was built using [Android Studio](http://developer.android.com/sdk/index.html?gclid=CjwKEAjw_ci3BRDSvfjortr--DQSJADU8f2jlIC6xbvMKN_ytRR2n6k0DDXhrn_M89zavaoyjZEzBBoCPXTw_wcB) with no external libraries used besides the default toolset included with the software.
+
+My demo of the features with audio narration can be seen [here](https://youtu.be/xbkpxCIi91s).
 
 # Environment
 
